@@ -2,20 +2,16 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "The Usage and Impact of GitHub Actions"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Worked on mining how GitHub Actions are used among software repositories using the Global Software Supply Chain (GSSC) dataset and World of Code (WoC) infrastructure
+      - Submitted the work to MSR mining challenge 2023
+      - Answered research questions such as, How has the adoption of GitHub Actions varied, over time, in OSS projects; How are GitHub Action files typically implemented; What is the impact of GitHub Actions adoption on OSS projects;
+      - "**Tools used**: Python, R, Bash Scripting"
+#    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+  - title: "A Web Application to Facilitate Course Enrollment "
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - "Developed a web application combined with a mobile application to facilitate course enrollment"
+      - "**Technologies used**: JSP, Java Servlet, RESTful web services, MySQL, HTML, CSS"
+
+#    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"

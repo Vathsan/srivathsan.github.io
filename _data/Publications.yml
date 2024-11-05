@@ -4,8 +4,15 @@ icon: "/assets/img/flask.svg"
 contents:
   - title: Journal
     ref: 
-      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
-      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
+      - "S. Shanmuganathan, M. Noga, B. Foster, H. Becher, and K. Punithakumar, “Two-Step Rigid and Non-Rigid Image 
+      Registration for the Alignment of Three-Dimensional Echocardiography Sequences from Multiple Views,”  
+      Volume 12, pp. 53485–53496, IEEE Access, 2024, doi:10.1109/ACCESS.2024.3388293"
   - title: Conference
     ref:
-      - "[3] I. Lebedev, **M. Yankovich**, L. Wang, G. Segev, “[Post-training of deep bidirectional transformers for language understanding](https://scholar.google.com/),” *in Proc. 99th Annu. Meeting Assoc. Comput. Linguistics*, pp. xxx–xxx, 202x."
+      - "S. Shanmuganathan, M. Noga, B. Foster, H. Becher, and K. Punithakumar, “Image registration for multi-view 
+      three-dimensional echocardiography sequences,” in 2023 IEEE 23rd International Conference on Bioinformatics and 
+      Bioengineering (BIBE), (Los Alamitos, CA, USA), pp. 260–264, IEEE Computer Society, Dec 2023"
+  - title: Conference
+    ref:
+      - "D. Patel, S. Shanmuganathan, and S. Raman, “Adaptive Multiple-pixel Wide Seam Carving”, in the 25th National 
+      Conference on Communications (NCC), Indian Institute of Science (IISc), Bangalore, IN, Feb. 20-23, 2019"

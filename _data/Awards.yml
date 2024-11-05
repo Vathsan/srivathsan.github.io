@@ -1,13 +1,7 @@
-subject: Awards
+subject: Awards & Achievements
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Professor A. Kumar David Gold Medal
+    description: Won Professor A. Kumar David Gold Medal for the best overall performance in Computer Engineering
+    date: Nov. 2018

@@ -2,21 +2,59 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Perimeter Medical Imaging AI, Toronto
+    role: AI and Data Scientist
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
+        - Conducted research and development efforts of deep-learning computer vision models for OCT image reconstruction using undersampled data to speed up the scanning
+        - "**Tools used**: GCP, Python, Pytorch, Wandb, UNet, CNN"
+
+    date: Jul. 2024 - Ongoing
+
+  - title: WSO2, Sri Lanka
     role: Senior Software Engineer
+    description:
+      - Formulated design and worked on improving the observability of Choreo Connect, a gateway proxy, by integrating with Azure Application Insights to publish metrics, statistics and visualize (GitHub PR)
+      - Developed integration solutions to solve real-world problems, such as converting XML to EDI, publishing stats to ELK stack and reading files from FTP, processing and writing to target system
+      - Added Apache Avro Message support to WSO2 Kafka Connector
+      - Led the internal team which assisted support team members and handled customer queries efficiently
+      - Worked on debugging issues, fixed over 150 bugs, and contributed to  stabilizing HTTP blocking transport and revamping RabbitMQ transport
+      - Initiated the process to enhance developer productivity for creating security patches/updates
+      - Immensely contributed to the Integration and APIM team by working on multiple product releases (MI-4.0.0 APIM-4.1.0), revamping the release pipeline and fixing security exploits
+      - Contributed to developing products by applying best practices on enterprise technologies such as Web services, designing internal APIs, XML, JSON
+      - Hands-on experience with Message Brokers (RabbitMQ, Kafka) and messaging protocols  (JMS, AMQP)
+      - Mentored junior members by participating in code reviews, providing them with product expertise and guiding them on the release, update process
+      - Involved as the product expert at customer support fronts and provided solutions to customers while adhering to the SLA timeline
+
+    date: Nov. 2020 - Mar. 2022
+
+  - title: WSO2, Sri Lanka
+    role: Software Engineer
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Collaborated to build up MI-1.1.0 as a runnable product from scratch within a very short time
+      - Contributed to building up WSO2MI-1.2.0 to a stable state by fixing bugs and adding new features so that customers can migrate to, from any previous releases
+      - Conducted product demonstrations, release webinars and screencasts as part of the marketing effort
+      - Involvement in the support team as a member of the product team
+      - Collaborated to stabilize the products by writing integration and unit tests Analyzed logs, heap dumps and thread dumps to debug and isolate issues
+      - Fixed product-level security vulnerabilities such as CSS, CSRF and dependency vulnerabilities
+
+    date: Jan. 2019 - Oct. 2020
+
+  - title: University of Alberta
+    role: Research Assistant
+    description:
+      - Trained Deep Reinforcement Learning (CNN + Reinforcement learning) models to detect anatomical landmarks on medical images
+      - Used the detected landmarks and non-deformable registration techniques to register echocardiography images taken from different views
+      - Compared the results using qualitative and quantitative methods. Results yielded an overall Dice score of 0.80 which was 0.57 for the original images
+      - "**Tools, Libraries used**: Reinforcement Learning, Pytorch, ITK, Simple Elastix, AntsPy, 3D Slicer"
+
+    date: Mar. 2022 - Apr. 2024
+
+  - title: Alberta Machine Intelligence Institute (Amii)
+    role: Content Development Support
+    description:
+      - "Conducted independent research to design a flask-based microservice application and configured CI/CD pipeline using GitHub actions to automatically build artifacts, docker image and deploy upon code changes to AWS Elastic Kubernetes Service. (GitHub repository: https://github.com/Amii-Training/cloud)"
+      - "**Tools used**: Python, Flask, GitHub Actions, Docker, K8s, AWS EKS, PyPI"
+      - Developed a CNN model with an accuracy of 0.9 to classify regions where land is being used in satellite images obtained through Landsat which have a low spatial resolution
+      - Implemented appropriate Google Colab notebooks based on the client's needs
+
+    date: Jan. 2023 - Mar. 2023
