@@ -33,30 +33,31 @@
     </div>
     <div class="contact-info">
       <ul class="horizontal-list">
-        <li>
-          <img src="{{ '/assets/img/phone.svg' | prepend: site.baseurl }}" alt="My Phone Number"/>
-          <span>{{ site.phone_number }}</span>
-        </li>
 <!--        <li>-->
-<!--          <a aria-label="My Address" href="https://www.google.com/maps/search/{{ site.address }}"/>-->
-<!--          <img src="{{ '/assets/img/location-dot.svg' | prepend: site.baseurl }}" alt="My Address"/>-->
-<!--          <span>{{ site.address }}</span>-->
+<!--          <a aria-label="My Phone">-->
+<!--          <img src="{{ '/assets/img/phone.svg' | prepend: site.baseurl }}" alt="My Phone Number"/>-->
+<!--            <span>{{ site.phone_number }}</span></a>-->
 <!--        </li>-->
         <li>
-          <a aria-label="My Email" href="mailto:{{ site.email }}"/>
-          <img src="{{ '/assets/img/envelope.svg' | prepend: site.baseurl }}" alt="My Email"/>
-          <span>{{ site.email }}</span>
+          <a aria-label="My Address" href="https://www.google.com/maps/search/{{ site.address }}">
+          <img src="{{ '/assets/img/location-dot.svg' | prepend: site.baseurl }}" alt="My Address"/>
+          <span>{{ site.address }}</span></a>
         </li>
         <li>
-          <a aria-label="My LinkedIn" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"/>
+          <a aria-label="My Email" href="mailto:{{ site.email }}">
+          <img src="{{ '/assets/img/envelope.svg' | prepend: site.baseurl }}" alt="My Email"/>
+            <span>{{ site.email }}</span></a>
+        </li>
+        <li>
+          <a aria-label="My LinkedIn" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
             <img src="{{ '/assets/img/linkedin.svg' | prepend: site.baseurl }}" alt="My LinkedIn"/>
-            <span>@{{ site.linkedin_username }}</span>
+            <span>@{{ site.linkedin_username }}</span></a>
           </a>
         </li>
         <li>
           <a aria-label="My Github" href="https://github.com/{{ site.github_username }}">
             <img src="{{ '/assets/img/github.svg' | prepend: site.baseurl }}" alt="My Github">
-            <span>@{{ site.github_username }}</span>
+            <span>@{{ site.github_username }}</span></a>
           </a>
         </li>
       </ul>
@@ -108,7 +109,7 @@
   </div>
   <div id="footer">
     <span>
-      Copyright © 2024 | <a href="https://github.com/byanko55">Yankos</a>
+<!--      Copyright © 2024 | <a href="https://github.com/byanko55">Yankos</a>-->
     </span>
   </div>
 </body>
