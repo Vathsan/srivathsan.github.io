@@ -4,15 +4,15 @@ icon: "/assets/img/flask.svg"
 contents:
   - title: Journal
     ref: 
-      - "S. Shanmuganathan, M. Noga, B. Foster, H. Becher, and K. Punithakumar, “Two-Step Rigid and Non-Rigid Image 
-      Registration for the Alignment of Three-Dimensional Echocardiography Sequences from Multiple Views,”  
+      - "S. Shanmuganathan, M. Noga, B. Foster, H. Becher, and K. Punithakumar, [“Two-Step Rigid and Non-Rigid Image 
+      Registration for the Alignment of Three-Dimensional Echocardiography Sequences from Multiple Views,”](https://ieeexplore.ieee.org/document/10497605?source=authoralert)  
       Volume 12, pp. 53485–53496, IEEE Access, 2024, doi:10.1109/ACCESS.2024.3388293"
   - title: Conference
     ref:
-      - "S. Shanmuganathan, M. Noga, B. Foster, H. Becher, and K. Punithakumar, “Image registration for multi-view 
-      three-dimensional echocardiography sequences,” in 2023 IEEE 23rd International Conference on Bioinformatics and 
+      - "S. Shanmuganathan, M. Noga, B. Foster, H. Becher, and K. Punithakumar, [“Image registration for multi-view 
+      three-dimensional echocardiography sequences,”](https://www.computer.org/csdl/proceedings-article/bibe/2023/931100a260/1UGTfiWq4tq) in 2023 IEEE 23rd International Conference on Bioinformatics and 
       Bioengineering (BIBE), (Los Alamitos, CA, USA), pp. 260–264, IEEE Computer Society, Dec 2023"
   - title: Conference
     ref:
-      - "D. Patel, S. Shanmuganathan, and S. Raman, “Adaptive Multiple-pixel Wide Seam Carving”, in the 25th National 
+      - "D. Patel, S. Shanmuganathan, and S. Raman, [“Adaptive Multiple-pixel Wide Seam Carving”](https://www.semanticscholar.org/paper/Adaptive-Multiple-pixel-Wide-Seam-Carving-Patel-Shanmuganathan/7b0d7ccbab2690a6bf3601de68338ffb31ea8639), in the 25th National 
       Conference on Communications (NCC), Indian Institute of Science (IISc), Bangalore, IN, Feb. 20-23, 2019"

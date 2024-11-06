@@ -2,16 +2,16 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Perimeter Medical Imaging AI, Toronto
-    role: AI and Data Scientist
+  - title: AI and Data Scientist
+    role: Perimeter Medical Imaging AI, Toronto, ON
     description:
         - Conducted research and development efforts of deep-learning computer vision models for OCT image reconstruction using undersampled data to speed up the scanning
         - "**Tools used**: GCP, Python, Pytorch, Wandb, UNet, CNN"
 
     date: Jul. 2024 - Ongoing
 
-  - title: WSO2, Sri Lanka
-    role: Senior Software Engineer
+  - title: Senior Software Engineer
+    role: WSO2, Sri Lanka
     description:
       - Formulated design and worked on improving the observability of Choreo Connect, a gateway proxy, by integrating with Azure Application Insights to publish metrics, statistics and visualize (GitHub PR)
       - Developed integration solutions to solve real-world problems, such as converting XML to EDI, publishing stats to ELK stack and reading files from FTP, processing and writing to target system
@@ -27,8 +27,8 @@ contents:
 
     date: Nov. 2020 - Mar. 2022
 
-  - title: WSO2, Sri Lanka
-    role: Software Engineer
+  - title: Software Engineer
+    role: WSO2, Sri Lanka
     description: 
       - Collaborated to build up MI-1.1.0 as a runnable product from scratch within a very short time
       - Contributed to building up WSO2MI-1.2.0 to a stable state by fixing bugs and adding new features so that customers can migrate to, from any previous releases
@@ -39,8 +39,8 @@ contents:
 
     date: Jan. 2019 - Oct. 2020
 
-  - title: University of Alberta
-    role: Research Assistant
+  - title: Research Assistant
+    role: University of Alberta, Edmonton, AB
     description:
       - Trained Deep Reinforcement Learning (CNN + Reinforcement learning) models to detect anatomical landmarks on medical images
       - Used the detected landmarks and non-deformable registration techniques to register echocardiography images taken from different views
@@ -49,8 +49,8 @@ contents:
 
     date: Mar. 2022 - Apr. 2024
 
-  - title: Alberta Machine Intelligence Institute (Amii)
-    role: Content Development Support
+  - title: Content Development Support
+    role: Alberta Machine Intelligence Institute (Amii), Edmonton, AB
     description:
       - "Conducted independent research to design a flask-based microservice application and configured CI/CD pipeline using GitHub actions to automatically build artifacts, docker image and deploy upon code changes to AWS Elastic Kubernetes Service. (GitHub repository: https://github.com/Amii-Training/cloud)"
       - "**Tools used**: Python, Flask, GitHub Actions, Docker, K8s, AWS EKS, PyPI"

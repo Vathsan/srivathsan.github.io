@@ -1,0 +1,20 @@
+subject: About
+listing-order: 1
+icon: "/assets/img/about.svg"
+contents:
+  - Title:
+    description:
+      - "I defended my M.Sc. thesis and graduated from the University of Alberta in 2024 where I worked under the supervision of 
+      [Prof. Kumar Punithakumar](https://apps.ualberta.ca/directory/person/punithak)"
+      - "Before commencing my graduate studies, I completed my B.Sc. in Computer Engineering from the University of Jaffna, Faculty of Engineering, Sri Lanka with 
+       First Class Honors. During my undergraduate studies, I did a research internship at the Indian Institute of Technology, 
+       Gandhinagar, India under the supervision of Prof. [Shanmuganathan Raman](https://iitgn.ac.in/faculty/cse/shanmuganathan)"
+      - "I am passionate about Software Engineering with over 3 years of industry experience in developing and
+        supporting enterprise-level integration solutions on both cloud and on-premise platforms, utilizing Java development practices at [WSO2](https://wso2.com/)."
+      - "For the past 3+ years I have been working on implementing advanced AI models, including CNN, Reinforcement Learning, UNet and XGBoost to
+       tackle complex problems such as Image Segmentation/Registration, Landmark Localisation, Land Use Classification, 
+       and Home Value Prediction"
+      - "I have keen interest in Software Engineering, Machine Learning (especially Computer Vision) and Cloud Computing"
+      - "I play tennis <br />
+        ![](/assets/img/tennis.png)"
+

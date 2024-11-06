@@ -4,22 +4,21 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: University of Alberta, Master of Science in Medical Science
     description:
-      - Research (thesis) based master's program
+      - "Research (thesis) based master's program, **GPA**: `3.9/4.0`"
       - "**Courses**: Software Analytics: Machine Learning and Software Engineering, Image Processing and Analysis in Diagnostic Imaging,
          Introduction to Research Methodologies and Data Management"
       - "**Thesis title**: Two-Step Rigid and Non-Rigid Image Registration for
                   the Alignment of Multi-View Three-Dimensional
                   Echocardiography Sequences"
     date: Sep. 2021 - Apr. 2024
-    grade: "**GPA**: `3.9/4.0`"
+#    grade: "**GPA**: `3.9/4.0`"
   - title: University of Jaffna, Bachelor of Science (Hons) in Computer Engineering
     description:
-      - Passed with first class honors
-      - Won Professor A. Kumar David Gold Medal for the best overall performance in Computer Engineering
+      - "Passed with first class honors, **GPA**: `3.7/4.0`"
+      - "Won Professor A. Kumar David Gold Medal for the best overall performance in Computer Engineering"
       - "**Math Courses**: Linear Algebra, Probability and Statistics, Differential Equations and Numerical Methods, 
                  Discrete Mathematics"
       - "**Programming Courses**: Data Structures and Algorithms, Operating Systems, Database Systems, Software Construction, Software Engineering,
         Computer Architecture and Organization, Robotics and Automation, Computer and Network Security, Embedded Systems, Network Application Design"
       - "**AI/ML Courses**: Data Mining, Digital Image Processing, Artificial Intelligence, Machine Learning, Human Computer Interaction"
     date: Nov. 2014 - Oct. 2018
-    grade: "**GPA**: `3.7/4.0`"
